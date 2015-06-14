@@ -1,0 +1,6 @@
+{
+	"title": " - SPIEGEL ONLINE$",
+	"filter": {
+		"path": "^(politik|wirtschaft|panorama|sport|kultur|netzwelt|wissenschaft|gesundheit|einestages|karriere|unispiegel|reise|auto|stil)\/."
+	}
+}
